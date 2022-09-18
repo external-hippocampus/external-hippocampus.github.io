@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://external-hippocampus.github.io/categories/</loc>
-  </url><url>
-    <loc>https://external-hippocampus.github.io/tags/</loc>
-  </url><url>
-    <loc>https://external-hippocampus.github.io/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://external-hippocampus.github.io/ko/sitemap.xml</loc>
+    
+      <lastmod>2022-09-19T19:59:40+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://external-hippocampus.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
