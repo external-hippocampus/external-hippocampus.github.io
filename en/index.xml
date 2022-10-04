@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>External-Hippocampus</title>
     <link>https://external-hippocampus.github.io/en/</link>
@@ -12,15 +12,7 @@
       <pubDate>Sun, 18 Sep 2022 23:15:40 +0900</pubDate>
       
       <guid>https://external-hippocampus.github.io/en/about/</guid>
-      <description>Dev Himself is a noob developer with career less than a year.
-He mounted an External-Hippocampus when he felt overflow of his internal-hippocampus.
-Posting idea and knowledge from his dev life.
-But, not providing on English yet. (or maybe forever)</description>
-      <content>&lt;p&gt;Dev Himself is a noob developer with career less than a year.&lt;/p&gt;
-&lt;p&gt;He mounted an External-Hippocampus when he felt overflow of his internal-hippocampus.&lt;/p&gt;
-&lt;p&gt;Posting idea and knowledge from his dev life.&lt;/p&gt;
-&lt;p&gt;But, not providing on English yet. (or maybe forever)&lt;/p&gt;
-</content>
+      <description>It&amp;#39;s blah blah</description>
     </item>
     
   </channel>
